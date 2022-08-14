@@ -21,8 +21,7 @@
 
 #### Screenshot
 
-![Deskto<img width="1440" alt="Screenshot 2022-08-14 at 12 48 03 PM" src="https://user-images.githubusercontent.com/74073486/184526628-331d9a41-06d2-41a0-b3d1-ef1fe9229b4f.png">
-p]
+<img width="1440" alt="Screenshot 2022-08-14 at 12 48 03 PM" src="https://user-images.githubusercontent.com/74073486/184526628-331d9a41-06d2-41a0-b3d1-ef1fe9229b4f.png">
 
 ## Time taken to finish this project
 
